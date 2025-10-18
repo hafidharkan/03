@@ -8,10 +8,12 @@ int main() {
 	cout << "hitung sisi miring" << endl;
 	cout << "      |\\   " << endl;
 	cout << "      | \\  " << endl;
-	cout << "    b |  \\ c" << endl;
+	cout << "    a |  \\ c" << endl;
 	cout << "      |   \\ " << endl;
 	cout << "      |____\\ " << endl;
 	cout << "         b" << endl;
+
+	
 
 	cout << "\masukkan sisi a dan b: ";
 	cin >> a >> b;
